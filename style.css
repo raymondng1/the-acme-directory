@@ -16,13 +16,13 @@ h1{
 }
 
 body > div{
-    font-family: sans-serif;
-    justify-content: space-between;
-    align-items: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
     text-align: center;
     color: white;
-    font-size: 10px
 }
+
 div > div {
     width: 800x;
     height: 200px;
@@ -30,3 +30,4 @@ div > div {
     background: tomato;
     margin: 10px;
 }
+ 

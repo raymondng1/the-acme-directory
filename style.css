@@ -9,7 +9,7 @@ img {
 
 .bold {
     font-weight: bold;
-    font-size: 12px;
+    font-size: 14px;
 }
 h1{
     text-align: center;
@@ -21,6 +21,7 @@ body > div{
     justify-content: center;
     text-align: center;
     color: white;
+    font-size: 12px;
 }
 
 div > div {
